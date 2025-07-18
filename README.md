@@ -74,4 +74,9 @@ The entire project runs locally without the need for high-end hardware or GPU su
 
 Conclusion This task successfully showcases how machine learning can be used to build practical solutions like spam detectors. By using the Naive Bayes classifier, which is fast and efficient for text data, the model provides high accuracy with minimal training time. This project is ideal for beginners to grasp end-to-end ML workflows and can serve as a stepping stone toward more advanced NLP projects.
 
-Output
+Output : 
+
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/ed1a14f5-89e8-4b30-ab12-a1c24015e606" />
+
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/dde8de43-7479-437d-9ff5-4f9a7750661b" />
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/f71b57b1-0999-4688-92d2-beafd2dbbeef" />
